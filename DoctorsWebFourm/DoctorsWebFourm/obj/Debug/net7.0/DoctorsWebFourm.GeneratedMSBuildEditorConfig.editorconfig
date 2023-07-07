@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DoctorsWebFourm
+build_property.RootNamespace = DoctorsWebFourm
+build_property.ProjectDir = C:\Users\hp\Documents\GitHub\DoctorsWebForm\DoctorsWebFourm\DoctorsWebFourm\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hp\Documents\GitHub\DoctorsWebForm\DoctorsWebFourm\DoctorsWebFourm
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Home/AllQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGxRdWVzdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Home/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Home/BlogDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCbG9nRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Home/QuestionDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRdWVzdGlvbkRldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Queries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Queries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Queries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Queries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Queries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Replies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Replies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Replies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Replies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Replies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwbGllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Shared/SidePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpZGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Shared/_SideLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/Documents/GitHub/DoctorsWebForm/DoctorsWebFourm/DoctorsWebFourm/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6cccdrorq5

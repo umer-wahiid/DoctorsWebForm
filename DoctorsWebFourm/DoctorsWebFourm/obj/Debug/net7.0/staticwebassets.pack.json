@@ -1,0 +1,653 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DoctorsWebFourm.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoctorsWebFourm.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\editor.css",
+      "PackagePath": "staticwebassets\\assets\\css\\editor.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\images\\radial_bg.html",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\radial_bg.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\metismenu.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\metismenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\remixicon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\flaticonf968-2.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonf968-2.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\flaticonf968-3.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonf968-3.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\flaticonf968-4.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonf968-4.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\flaticonf968-5.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonf968-5.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\flaticonf968.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonf968.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\fontawesome-webfont862f.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont862f.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\fontawesome-webfont862f.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont862f.svg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\fontawesome-webfont862f.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont862f.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\fontawesome-webfont862f.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont862f.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\remixicondf6d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicondf6d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\remixicondf6d.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicondf6d.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\remixicondf6d.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicondf6d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\remixicondf6d.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicondf6d.woff"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\fonts\\remixicondf6d.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\remixicondf6d.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\ad.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\badges\\badges-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badges\\badges-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\badges\\badges-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badges\\badges-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\badges\\badges-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badges\\badges-3.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\badges\\badges-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badges\\badges-4.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\badges\\badges-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badges\\badges-5.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\badges\\badges-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\badges\\badges-6.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\banner-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\banner\\shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\banner\\shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\banner\\shape-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\banner\\shape-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\banner\\shape-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\shape-5.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\banner\\shape-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\shape-6.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\banner\\test-shape.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\test-shape.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\user-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\user-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\user-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\user-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\user-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\user-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\user-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\user-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\user-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\blog\\user-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\user-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\choose-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\choose-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\analytics.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\analytics.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\company.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\company.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\computer-science.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\computer-science.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\data-science.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\data-science.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\education.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\education.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\engineering.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\engineering.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\graphic-design.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\graphic-design.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\history.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\history.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\language.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\management.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\management.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\programing.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\programing.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\sports.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\sports.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\technology.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\technology.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\video-production.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\video-production.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\communities\\woman.png",
+      "PackagePath": "staticwebassets\\assets\\images\\communities\\woman.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\footer-shape.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\group\\group-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\group\\group-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\group\\group-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\group\\group-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\group\\group-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\group\\group-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\group-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\group\\sub-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\sub-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\group\\sub-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\group\\sub-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\images\\pattern.html",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern.html"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact-form-script.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\editor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\editor.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\like-dislike.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\like-dislike.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\meanmenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\meanmenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\metismenu.js",
+      "PackagePath": "staticwebassets\\assets\\js\\metismenu.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Documents\\GitHub\\DoctorsWebForm\\DoctorsWebFourm\\DoctorsWebFourm\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DoctorsWebFourm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DoctorsWebFourm.props",
+      "PackagePath": "build\\DoctorsWebFourm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DoctorsWebFourm.props",
+      "PackagePath": "buildMultiTargeting\\DoctorsWebFourm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DoctorsWebFourm.props",
+      "PackagePath": "buildTransitive\\DoctorsWebFourm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
