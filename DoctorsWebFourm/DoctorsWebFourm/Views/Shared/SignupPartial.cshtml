@@ -1,0 +1,166 @@
+﻿@model DoctorsWebFourm.Models.User
+
+
+<!-- Start Sign Up Modal -->
+<div class="modal fade" id="exampleModal-2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">Sign up</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				<form asp-action="Create" class="user-form">
+					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+					<div class="row">
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Fullname"></label>
+								<input asp-for="Fullname" class="form-control" />
+								<span asp-validation-for="Fullname" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="ContactNumber" class="control-label"></label>
+								<input asp-for="ContactNumber" class="form-control" />
+								<span asp-validation-for="ContactNumber" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Address" class="control-label"></label>
+								<input asp-for="Address" class="form-control" />
+								<span asp-validation-for="Address" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Country" class="control-label"></label>
+								<input asp-for="Country" class="form-control" />
+								<span asp-validation-for="Country" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Specialization" class="control-label"></label>
+								<input asp-for="Specialization" class="form-control" />
+								<span asp-validation-for="Specialization" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Qualification" class="control-label"></label>
+								<input asp-for="Qualification" class="form-control" />
+								<span asp-validation-for="Qualification" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Experience" class="control-label"></label>
+								<input asp-for="Experience" class="form-control" />
+								<span asp-validation-for="Experience" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Achievements" class="control-label"></label>
+								<input asp-for="Achievements" class="form-control" />
+								<span asp-validation-for="Achievements" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Password" class="control-label"></label>
+								<input asp-for="Password" class="form-control" />
+								<span asp-validation-for="Password" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="CPassword" class="control-label"></label>
+								<input asp-for="CPassword" class="form-control" />
+								<span asp-validation-for="CPassword" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Email" class="control-label"></label>
+								<input asp-for="Email" class="form-control" />
+								<span asp-validation-for="Email" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="RegistrationDate" class="control-label"></label>
+								<input asp-for="RegistrationDate" class="form-control" />
+								<span asp-validation-for="RegistrationDate" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group form-check">
+								<label class="form-check-label">
+									<input class="form-check-input" asp-for="IsAdmin" /> @Html.DisplayNameFor(model => model.IsAdmin)
+								</label>
+							</div>
+						</div>
+						
+						<div class="col-12">
+							<div class="form-group form-check">
+								<label class="form-check-label">
+									<input class="form-check-input" asp-for="IsPrivateProfile" /> @Html.DisplayNameFor(model => model.IsPrivateProfile)
+								</label>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="form-group">
+								<label asp-for="Img" class="control-label"></label>
+								<input asp-for="Img" class="form-control" />
+								<span asp-validation-for="Img" class="text-danger"></span>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<div class="login-action">
+								<div class="form-check">
+									<input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+									<label class="form-check-label" for="flexCheckDefault">
+										I agree to the <a href="terms-conditions.html">Terms of Use</a> and <a href="privacy-policy.html">Privacy Policy</a>
+									</label>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-12">
+							<input type="submit" value="Submit" class="btn default-btn" />
+@*
+							<button class="default-btn" type="submit">
+								Sign up
+							</button>*@
+						</div>
+
+						<div class="col-12">
+							<p class="create">Already on Portal?  <a href="login.html">Login</a></p>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Enad Sign Up Modal -->
