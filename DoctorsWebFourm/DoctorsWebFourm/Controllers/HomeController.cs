@@ -42,11 +42,16 @@ namespace DoctorsWebFourm.Controllers
             return View();
         }
 
-        public IActionResult AllQuestion()
+        public IActionResult AllQuestions()
         {
             return View();
         }
-        public IActionResult QuestionDetail()
+
+        public IActionResult QuestionsDetail()
+        {
+            return View();
+        }
+        public IActionResult Communities()
         {
             return View();
         }
