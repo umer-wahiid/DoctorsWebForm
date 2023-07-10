@@ -41,7 +41,6 @@ namespace DoctorsWebFourm.Models
         
         [Display(Name = "Experience")]
         [Required(ErrorMessage = "Enter Your Experience")]
-        [MaxLength(40, ErrorMessage = "Maximum 40 Characters Allowed")]
         public int Experience { get; set; }
         
         [Display(Name = "Your Achievement")]

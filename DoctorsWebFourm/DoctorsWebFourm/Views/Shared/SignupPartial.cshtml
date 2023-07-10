@@ -10,7 +10,7 @@
 				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 			</div>
 			<div class="modal-body">
-				<form asp-action="Create" class="user-form">
+				<form asp-action="Create" asp-controller="Users" method="post" class="user-form">
 					<div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
 					<div class="row">
@@ -134,7 +134,7 @@
 								<span asp-validation-for="Img" class="text-danger"></span>
 							</div>
 						</div>
-
+@*
 						<div class="col-12">
 							<div class="login-action">
 								<div class="form-check">
@@ -144,7 +144,7 @@
 									</label>
 								</div>
 							</div>
-						</div>
+						</div>*@
 
 						<div class="col-12">
 							<input type="submit" value="Submit" class="btn default-btn" />
