@@ -56,7 +56,7 @@ namespace DoctorsWebFourm.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("UserId,Fullname,ContactNumber,Address,Country,Specialization,Qualification,Experience,Achievements,Password,CPassword,Email,RegistrationDate,IsAdmin,IsPrivateProfile,Img")] User user)
-        {
+                {
             if (ModelState.IsValid)
             {
                 _context.Add(user);
